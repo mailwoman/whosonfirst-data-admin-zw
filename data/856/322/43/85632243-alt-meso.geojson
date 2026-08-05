@@ -1,11 +1,11 @@
 {
-  "id": "85632243",
+  "id": 85632243,
   "type": "Feature",
   "properties": {
     "src:alt_label":"meso",
     "src:geom":"meso",
     "wof:geomhash":"f3cb2c74dcbec2b15e020f3abf0c2d51",
-    "wof:id":"85632243",
+    "wof:id":85632243,
     "wof:repo":"whosonfirst-data-admin-zw"
 },
   "bbox": [
